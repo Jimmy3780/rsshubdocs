@@ -2,7 +2,7 @@
 
 ## 为什么
 
-官方的卡到我怀疑人生
+官方的卡到怀疑人生
 
 ## 内容
 
@@ -11,3 +11,7 @@
 ## 官方文档
 
 详细内容请访问[官方文档](https://docs.rsshub.app)
+
+## Powered By
+
+Powered By Heroku
